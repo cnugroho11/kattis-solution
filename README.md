@@ -1,3 +1,3 @@
 # kattis-solution
 
-Kattis solution with my major language
+Kattis solution with my favourite language
